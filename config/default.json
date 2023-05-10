@@ -1,0 +1,4 @@
+{
+    "port": 5000,
+    "mongoDbUrl": "mongodb+srv://karagodindanik:123@cluster0.yuta3v9.mongodb.net/people?retryWrites=true&w=majority"
+}
